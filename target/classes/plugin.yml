@@ -1,0 +1,7 @@
+name: SkullEater
+description: Complete plugin to create shop by skull.
+version: 1.0
+api-version: 1.8
+author: zPedroo_
+main: com.zpedroo.skulleater.SkullEater
+depend: [OnlineTime, WorldGuard]
